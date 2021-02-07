@@ -53,7 +53,6 @@ public class CountWorkSheetQuestionsTest {
         int totalNumberOfQuestionInWorkSheet = new SelectLanguagePage(driver)
                 .selectEnglishAsWebsiteLanguage()
                 .clickOnSearchIconFromHomePage()
-                .clickOnSearchIconFromHomePage()
                 .inputSearchQueryIntoSearchTextField(searchQuery)
                 .clickEnterToApplySearch()
                 .clickOnSecondSearchResult()
