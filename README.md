@@ -78,7 +78,6 @@ As a part of hiring process an automation assessment using Selenium , Maven, Jav
                 
                 .clickOnSearchIconFromHomePage()
                 
-                .clickOnSearchIconFromHomePage()
                 
                 .inputSearchQueryIntoSearchTextField(searchQuery)
                 
